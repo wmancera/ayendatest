@@ -1,0 +1,2 @@
+class Albun < ApplicationRecord
+end

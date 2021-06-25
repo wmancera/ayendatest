@@ -1,0 +1,2 @@
+class Albumart < ApplicationRecord
+end
